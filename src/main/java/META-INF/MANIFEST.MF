@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: mongo-java-driver-2.12.1.jar
+Main-Class: com.jr2jme.WikiIRC
+
